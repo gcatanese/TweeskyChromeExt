@@ -1,6 +1,6 @@
 # Tweesky Chrome Extension
 
-Chrome Extension to enable one-click creation of Social Media Cards with [tweesky.com](https://tweesky.com/)
+Chrome Extension to enable one-click creation of Social Media Cards with [tweesky.com](https://tweesky.online/)
 
 
 
